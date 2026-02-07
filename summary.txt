@@ -1,0 +1,10 @@
+Netflix Titles – Quick Summary
+================================
+
+Rows: 6236
+Unique titles: 6173
+type
+Movie      4265
+TV Show    1969
+1944          1
+NaN           1
